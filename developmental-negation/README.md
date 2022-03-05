@@ -3,4 +3,4 @@
 experiments are stored under a <code>checkpoint_results</code> directory and, for some experiments, the model checkpoints folders will need to be renamed to remove the "checkpoint" prefix.
 This is a limitation of the simpletransformers library.
 
-Analyze_childs.ipynb contains scripts for generating the plots and performing some other analyses.
+<code>Analyze_childs.ipynb</code> contains scripts for generating the plots and performing some other analyses.
