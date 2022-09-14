@@ -25,4 +25,12 @@ Each example has the same label and premise/hypothesis as it appears in the orig
 Each can be installed using pip.
 
 ## Credits
-Information for author attribution will be posted after the conference.
+If you use this work please cite us:
+
+>@inproceedings{laverghetta2022developmental,
+  title={Developmental Negation Processing in Transformer Language Models},
+  author={Laverghetta Jr, Antonio and Licato, John},
+  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
+  pages={545--551},
+  year={2022}
+}
